@@ -11,6 +11,9 @@ Webpack
 https://survivejs.com/webpack/appendices/comparison/
 
 Tree shaking
+Folding
+Above the fold 
+Below the fold
 
 ## Task runners
 gulp
