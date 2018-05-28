@@ -1,18 +1,8 @@
 ## React js
 
-Testing tools
-
-build creation configurations
-
 state and prop differences ?
 
-Jsx is part of babel ?
-
 Lifecycle of component
-
-Composition vs inheritance
-
-Thinking in react
 
 Proptypes
 
@@ -20,17 +10,33 @@ Uncontrolled components
 
 HOC
 
-Shallow Renderer
+
+## React js extra 
+
+Composition vs inheritance
+
+Thinking in react
 
 unidirectional data flow
 
+Shallow Renderer
 
+
+## React js Toolings
+
+Jsx is part of babel ?
+
+Testing tools
+
+build creation configurations
+
+App from scratch
 
 ## Redux
 
 redux form
 
-react http client
+react redux http client
 
 redux asynch state changes.
 
