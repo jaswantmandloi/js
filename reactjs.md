@@ -21,7 +21,7 @@ unidirectional data flow
 
 Shallow Renderer
 
-Isomorphic react
+Server side rendering (Isomorphic react)
 
 
 ## React js Toolings
