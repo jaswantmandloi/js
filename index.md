@@ -19,3 +19,8 @@ Below the fold
 gulp
 grunt
 
+
+## Concepts
+Monkey patching
+shallow equality reference checks
+
