@@ -5,22 +5,22 @@ https://es6.io/
 
 
 ## Bundlers
-Browserify
-Webpack
+1. Browserify
+2. Webpack
 
 https://survivejs.com/webpack/appendices/comparison/
 
-Tree shaking
-Folding
-Above the fold 
-Below the fold
+1. Tree shaking
+2. Folding
+3. Above the fold 
+4. Below the fold
 
 ## Task runners
-gulp
-grunt
+1. gulp
+2. grunt
 
 
 ## Concepts
-Monkey patching
-shallow equality reference checks
+1. Monkey patching
+2. shallow equality reference checks
 
