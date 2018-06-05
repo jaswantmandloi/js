@@ -21,7 +21,7 @@ https://survivejs.com/webpack/appendices/comparison/
 
 
 ## Concepts
-1. Monkey patching
+1. Monkey patching (Add/update desired functionality at run time)
 2. shallow equality reference checks
 3. Javascript Object Model
 
