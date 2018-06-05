@@ -23,4 +23,8 @@ https://survivejs.com/webpack/appendices/comparison/
 ## Concepts
 1. Monkey patching
 2. shallow equality reference checks
+3. Javascript Object Model
+
+## Data structure libs
+1. Immutable js
 
