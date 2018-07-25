@@ -10,6 +10,8 @@ Uncontrolled components
 
 HOC
 
+Error Boundries  ( componentDidCatch(error, info) Lifecycle ) 
+
 
 ## React js extra 
 
@@ -22,6 +24,8 @@ unidirectional data flow
 Shallow Renderer
 
 Server side rendering (Isomorphic react/ react code)
+
+windowing ( React Virtualized  )
 
 
 ## React js Toolings
