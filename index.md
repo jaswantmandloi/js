@@ -4,19 +4,21 @@ https://es6.io/
 2. Curring with multiple arrow function(Fat arrow)
 3. const
 4. arrow function + multile arrow
-5. block scoped function
+5. block scoped function ( function inside {} can be defined with same name as parent scope )
 6. classes and its features
 7. destructuring
 8. parameters + default + other features
 10. Symbol
 11. template literals
 12. spread operators
-13. exponential operators
+13. exponential operators  (double *)
 14. generators + asynch generators
 15. modules + its type
 16. decorators
-17. object rest spread
+17. object rest parameter (..a argument in function) spread operator (...)
 18. asynch and await
+19. Meta programming.(Proxy, Reflection)
+20. Internationalization + Localization (Intl Object)
 
 
 
